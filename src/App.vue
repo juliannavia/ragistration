@@ -18,7 +18,7 @@
                   <div id="itemsNavBar" class="col-sm-4">
                     <li class="nav-item">
                       <a class="nav-link" href="https://pikinglish.com"
-                        >SITIO WEBcommit5</a
+                        >SITIO WEB</a
                       >
                     </li>
                   </div>
